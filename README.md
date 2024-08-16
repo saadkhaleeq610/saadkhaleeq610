@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences [linkedin.com/in/saadkhaleeq610](linkedin.com/in/saadkhaleeq610)
 
-- ⚡ Fun fact **I'm 18 year old**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/saadkhaleeq610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="saadkhaleeq610" height="30" width="40" /></a>
