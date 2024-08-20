@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad Khaleeq</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 - 🔭 I’m currently working on **MERN Stack Projects**
 
@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [linkedin.com/in/saadkhaleeq610](linkedin.com/in/saadkhaleeq610)
 
-- 💬 Ask me about **react, mern, nextjs**
+- 💬 Ask me about **react, mern**
 
 - 📫 How to reach me **saadkhaleeq610@gmail.com**
 
