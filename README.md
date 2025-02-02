@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saad Khaleeq</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on **MERN Stack Projects**
+- 🔭 I’m currently working on **FULL Stack Projects**
 
 - 🌱 I’m always looking forward to grow **in Software Development**
 
