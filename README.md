@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Saad Khaleeq</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on **FULL Stack Projects**
+- 🔭 I’m currently working as a **Software Engineer**
 
-- 🌱 I’m always looking forward to grow **in Software Development**
+- 🌱 I’m always looking forward to grow **in Software Engineering**
 
-- 📝 I regularly write articles on [linkedin.com/in/saadkhaleeq610](linkedin.com/in/saadkhaleeq610)
+- 📝 I regularly write articles on [my blog](saadkhaleeq.com)
 
-- 💬 Ask me about **react, mern**
+- 💬 Ask me about **golang, typescript, react**
 
 - 📫 How to reach me **saadkhaleeq610@gmail.com**
 
